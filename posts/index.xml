@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BZHomelab</title>
+    <link>https://hotys.github.io/BZHomelab/posts/</link>
+    <description>Recent content in Posts on BZHomelab</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 30 May 2025 10:49:00 +0000</lastBuildDate>
+    <atom:link href="https://hotys.github.io/BZHomelab/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test 4</title>
+      <link>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-4/</link>
+      <pubDate>Fri, 30 May 2025 10:49:00 +0000</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>test 3</title>
+      <link>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-3/</link>
+      <pubDate>Fri, 30 May 2025 10:48:51 +0000</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>test 2</title>
+      <link>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-2/</link>
+      <pubDate>Fri, 30 May 2025 10:48:37 +0000</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Création du blog</title>
+      <link>https://hotys.github.io/BZHomelab/posts/creation_du_blog/</link>
+      <pubDate>Fri, 30 May 2025 11:10:44 +0200</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/posts/creation_du_blog/</guid>
+      <description>&lt;h1 id=&#34;titre-1&#34;&gt;Titre 1&lt;/h1&gt;&#xA;&lt;p&gt;Ceci est un test.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://excalidraw.com/&#34;&gt;Excalidraw&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premier article</title>
+      <link>https://hotys.github.io/BZHomelab/posts/premier-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/posts/premier-article/</guid>
+      <description>&lt;p&gt;Ceci est mon premier article.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
