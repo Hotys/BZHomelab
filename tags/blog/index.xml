@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on BZHomelab</title>
+    <link>https://hotys.github.io/BZHomelab/tags/blog/</link>
+    <description>Recent content in Blog on BZHomelab</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 30 May 2025 11:10:44 +0200</lastBuildDate>
+    <atom:link href="https://hotys.github.io/BZHomelab/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Création du blog</title>
+      <link>https://hotys.github.io/BZHomelab/posts/creation_du_blog/</link>
+      <pubDate>Fri, 30 May 2025 11:10:44 +0200</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/posts/creation_du_blog/</guid>
+      <description>&lt;h1 id=&#34;titre-1&#34;&gt;Titre 1&lt;/h1&gt;
+&lt;p&gt;Ceci est un test.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://excalidraw.com/&#34;&gt;Excalidraw&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

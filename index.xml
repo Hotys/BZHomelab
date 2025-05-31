@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on BZHomelab</title>
-    <link>https://hotys.github.io/BZHomelab/posts/</link>
-    <description>Recent content in Posts on BZHomelab</description>
+    <title>Accueil on BZHomelab</title>
+    <link>https://hotys.github.io/BZHomelab/</link>
+    <description>Recent content in Accueil on BZHomelab</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 30 May 2025 10:49:00 +0000</lastBuildDate>
-    <atom:link href="https://hotys.github.io/BZHomelab/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hotys.github.io/BZHomelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test 4</title>
       <link>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-4/</link>
