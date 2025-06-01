@@ -6,8 +6,18 @@
     <description>Recent content in Accueil on BZHomelab</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 30 May 2025 10:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:58:45 +0200</lastBuildDate>
     <atom:link href="https://hotys.github.io/BZHomelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://hotys.github.io/BZHomelab/about/</link>
+      <pubDate>Sun, 01 Jun 2025 14:58:45 +0200</pubDate>
+      <guid>https://hotys.github.io/BZHomelab/about/</guid>
+      <description>&lt;p&gt;Bienvenue sur mon blog que j&amp;rsquo;ai décidé de nommer &lt;strong&gt;BZHomelab&lt;/strong&gt; !&lt;/p&gt;
+&lt;h3 id=&#34;pourquoi-ce-nom-&#34;&gt;Pourquoi ce nom ?&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Et bien BZH car comme vous l&amp;rsquo;aurez deviné je suis d&amp;rsquo;origine bretonne et je vis dans le magnifique département français du Finistère. Comme je suis un peu chauvin, il fallait que ça se ressente dans le nom du blog et puis j&amp;rsquo;aimais bien l&amp;rsquo;association avec le mot &amp;ldquo;homelab&amp;rdquo; qui est le sujet central traité dans ce blog.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>test 4</title>
       <link>https://hotys.github.io/BZHomelab/posts/2025-05-30-test-4/</link>
